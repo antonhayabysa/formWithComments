@@ -67,4 +67,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)<img width="1679" alt="Снимок экрана 2023-09-20 в 22 44 22" src="https://github.com/antonhayabysa/for<img width="1679" alt="Снимок экрана 2023-09-20 в 22 45 46" src="https://github.com/antonhayabysa/formWithComments/assets/83969662/76ca78ea-2128-48c0-b68c-3589bcf53c62"><img width="738" alt="Снимок экрана 2023-09-20 в 22 46 22" src="https://github.com/antonhayabysa/formWithComments/assets/83969662/81cba36d-bf04-44f4-ad35-6d14b5923089">
+
+mWithComments/asset<img width="1679" alt="Снимок экрана 2023-09-20 в 22 44 47" src="https://github.com/antonhayabysa/formWithComments/assets/83969662/64a36dd6-d8a3-47e4-a8a4-3a<img width="1149" alt="Снимок экрана 2023-09-20 в 22 46 00" src="https://github.com/antonhayabysa/formWithComments/assets/83969662/8d556a0b-6955-40f1-bf22-c554e342fea8">
+af69d0a4fc">
+s/83969662/75f15ded-4830-4e3a-9936-857dca887986">
+
+<img width="1679" alt="Снимок экрана 2023-09-20 в 22 45 00" src="https://github.com/antonhayabysa/formWithComments/assets/83969662/fa8cff5b-a2b1-4f92-ba93-ae4d25e557b2">
